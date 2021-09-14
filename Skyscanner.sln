@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyscanner", "Skyscanner\Skyscanner.csproj", "{7C6A2E9A-B89B-4002-947A-598B4D03BDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6A2E9A-B89B-4002-947A-598B4D03BDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6A2E9A-B89B-4002-947A-598B4D03BDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6A2E9A-B89B-4002-947A-598B4D03BDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6A2E9A-B89B-4002-947A-598B4D03BDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F004B7D-004F-4656-8EB3-860750192432}
+	EndGlobalSection
+EndGlobal
