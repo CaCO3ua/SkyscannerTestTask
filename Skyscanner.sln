@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.1622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyscanner", "Skyscanner\Skyscanner.csproj", "{7C6A2E9A-B89B-4002-947A-598B4D03BDD7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B30EDB7A-A4FE-479C-83E1-658E9F95495B}"
+	ProjectSection(SolutionItems) = preProject
+		Skyscanner\bin\Debug\netcoreapp2.1\chromedriver.exe = Skyscanner\bin\Debug\netcoreapp2.1\chromedriver.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
